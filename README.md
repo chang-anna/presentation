@@ -1,2 +1,2 @@
 # presentation
-Slides to share
+Slides to share with technology enthusiasts.
