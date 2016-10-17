@@ -1,5 +1,5 @@
 
-### Indes ###
+### Index ###
 
 * [UVM] (#UVM)
 
